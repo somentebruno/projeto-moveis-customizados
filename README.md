@@ -30,11 +30,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Móveis Customizados é uma página que foi criada para aplicar os fundamentos de html, css, figma e git/github. 
 
-- [Acesse o projeto finalizado, online]([somentebruno.github.io/projeto-dev-links](https://somentebruno.github.io/projeto-moveis-customizados/))
+- [Acesse o projeto finalizado, online]([somentebruno.github.io/projeto-moveis-customizado](https://somentebruno.github.io/projeto-moveis-customizados/))
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<[https://www.figma.com/file/rSJwxPhlcdtMHvS4jCjGsn/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&t=9Hw6MA8FKCMp5EKp-6](https://www.figma.com/file/i3kJv2jo8te6xAnjvPrvnV/Explorer---Projeto-01?type=design&t=jHleYTXzJxValBaZ-6)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/i3kJv2jo8te6xAnjvPrvnV/Explorer---Projeto-01?type=design&t=jHleYTXzJxValBaZ-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
