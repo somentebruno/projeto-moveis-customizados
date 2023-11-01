@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Móveis Customizados é uma página que foi criada para aplicar os fundamentos de html, css, figma e git/github. 
 
-- [Acesse o projeto finalizado, online]([somentebruno.github.io/projeto-moveis-customizado](https://somentebruno.github.io/projeto-moveis-customizados/))
+- [Acesse o projeto finalizado, online](https://somentebruno.github.io/projeto-moveis-customizados/).
 
 ## 🔖 Layout
 
